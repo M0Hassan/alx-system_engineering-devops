@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Replace all characters A and C from input to Z and E" | tr AC ZE
